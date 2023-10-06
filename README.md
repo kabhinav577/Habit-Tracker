@@ -62,13 +62,13 @@ Follow these steps to run the Album Manager on your local machine:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/kabhinav577/Habit-tracker-app.git
+   git clone https://github.com/kabhinav577/Habit-Tracker.git
    ```
 
 2. Navigate to the Project Directory:
 
    ```
-   cd Habit-tracker-app
+   cd Habit-Tracker
 
    ```
 
